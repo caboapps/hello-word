@@ -1,2 +1,6 @@
 # hello-word
-just another repository
+
+Hi Humans!
+
+Mariosi here, busco entes con idioma español.
+tengo zapatos para todos si.
